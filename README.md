@@ -4,7 +4,7 @@ In this project, I investigated TMDb movie dataset to address the following ques
 1- What kinds of properties are associated with movies that have high revenues?  
 2- Are movies' profits affected by the month of release ?  
 
-The workflow in brief will be : first I will load the data and analyse its characteristics. Furthermore, I will clean the data to be suitable for analysis and visualization. Then I will analyse the processed data and provides some results based on my observation. Mainly, in this project I will focus on numeric features more than text features.
+The workflow in brief will be : first I loaded the data and analyse its characteristics. Furthermore, I cleaned the data to be suitable for analysis and visualization. Then I analyzed the processed data and provides some results based on my observation. Mainly, in this project I focused on numeric features more than text features.
 
 Language: Python 
 
